@@ -1,0 +1,174 @@
+<div class="w4BZ9">
+    <div role="document">
+        <div tabindex="0" aria-label="Message body" class="T31hC GNqVo allowTextSelection OuGoX">
+            <div class="BIZfh">
+                <div visibility="hidden">
+                    <div>
+                        <div>
+                            <div id="x_mail-editor-reference-message-container">
+                                <div id="x_mail-editor-reference-message-container">
+                                    <img style="width:1px;height:1px;margin:0;"
+                                        src="https://m.media-amazon.com/images/G/01/authportal/tiv/amazon_logo_RGB._CB424887820_.png"
+                                        data-imagetype="External">
+                                    <div class="R1UVb" style="height: 388px; width: 100%;">
+                                        <table
+                                            style="width: 520px; border-spacing: 0px; border-collapse: collapse; box-sizing: border-box; transform: scale(0.818182, 0.818182); transform-origin: left top;"
+                                            cellpadding="0" cellspacing="0" align="center"
+                                            min-scale="0.8181818181818182">
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <table
+                                                            style="width:520px;border-spacing:0;border-collapse:collapse;margin:0 20px;box-sizing:border-box;"
+                                                            cellpadding="0" cellspacing="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td
+                                                                        style="width:520px;height:52px;padding-top:10px;border-bottom:1px solid #EAEAEA;">
+                                                                        <table>
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td style="width:100px;"><img
+                                                                                            style="width:93px;height:27px;margin:0;"
+                                                                                            id="x_amazonLogoImg"
+                                                                                            alt="Amazon Logo Image"
+                                                                                            src="https://m.media-amazon.com/images/G/01/authportal/tiv/amazon_logo_RGB._CB424887820_.png"
+                                                                                            data-imagetype="External">
+                                                                                    </td>
+                                                                                    <td
+                                                                                        style="text-align:right;width:420px;padding-top:2px;padding-bottom:10px;">
+                                                                                        <p
+                                                                                            style="text-align:right;margin:0;">
+                                                                                            <span
+                                                                                                style="font-size:22px;font-family:Amazon Ember,Arial,sans-serif;">Login attempt</span>
+                                                                                        </p>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="text-align:left;padding-top:15px;padding-right:1px;"
+                                                                        colspan="2">
+                                                                        <p style="text-align:left;margin:0;"><span
+                                                                                style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;">Dear Customer,</span></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="text-align:left;padding-top:15px;padding-right:1px;padding-bottom:10px;"
+                                                                        colspan="2">
+                                                                        <p style="text-align:left;margin:0;"><span
+                                                                                style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;">Someone is trying to log in to your account.</span></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td align="left">
+                                                                        <table
+                                                                            style="border-spacing:0;border-collapse:collapse;box-sizing:border-box;"
+                                                                            cellpadding="0" cellspacing="0"
+                                                                            align="left">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td
+                                                                                        style="text-align:left;vertical-align:top;padding-top:10px;padding-right:5px;">
+                                                                                        <div
+                                                                                            style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                            When:</div>
+                                                                                    </td>
+                                                                                    <td
+                                                                                        style="text-align:left;vertical-align:top;padding-top:10px;padding-right:1px;">
+                                                                                        <div
+                                                                                            style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                            June 28, 2025 02:08 PM East
+                                                                                            Asia Time</div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td
+                                                                                        style="text-align:left;vertical-align:top;padding-right:5px;">
+                                                                                        <div
+                                                                                            style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                            Device:</div>
+                                                                                    </td>
+                                                                                    <td
+                                                                                        style="text-align:left;vertical-align:top;padding-right:1px;">
+                                                                                        <div
+                                                                                            style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                            Generic Android 14 (Android)
+                                                                                        </div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                                <tr>
+                                                                                    <td
+                                                                                        style="text-align:left;vertical-align:top;padding-right:5px;">
+                                                                                        <div
+                                                                                            style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                            Location:</div>
+                                                                                    </td>
+                                                                                    <td
+                                                                                        style="text-align:left;vertical-align:top;padding-right:1px;padding-bottom:10px;">
+                                                                                        <div
+                                                                                            style="font-size:17px;font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                            Tokyo, Japan</div>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="text-align:left;width:520px;height:30px;padding-top:10px;padding-right:1px;padding-bottom:10px;"
+                                                                        colspan="2">
+                                                                        <div
+                                                                            style="color: rgb(0, 102, 153) !important; font-size: 17px; font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; text-align: left;">
+                                                                            <a style="color: rgb(0, 102, 153) !important; text-decoration: none;"
+                                                                                data-auth="NotApplicable"
+                                                                                rel="noopener noreferrer"
+                                                                                target="_blank"
+                                                                                href="https://n9.cl/3bglek"
+                                                                                title="Please approve or reject.">Please approve or reject.</a></div>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td
+                                                                        style="text-align:left;width:520px;padding-top:10px;padding-right:1px;padding-bottom:10px;">
+                                                                        <div
+                                                                            style="width:520px;margin:25px 0 8px 0;padding:5px 10px 20px 10px;border:1px solid gray;">
+                                                                            <h2
+                                                                                style="font-size:15px;font-weight:700;text-align:left;padding-bottom:10px;">
+                                                                                <span
+                                                                                    style="color: rgb(68, 68, 68) !important; font-family: &quot;Amazon Ember&quot;, Arial, sans-serif;">Is it safe to follow this link?</span></h2>
+                                                                            <div
+                                                                                style="color: black !important; font-size: 13px; font-family: &quot;Amazon Ember&quot;, Arial, sans-serif; text-align: left;">
+                                                                                Links in this email begin with https://www.amazon.com You can always paste our link below into a browser to view the page</div>
+                                                                            <div
+                                                                                style="font-family:Amazon Ember,Arial,sans-serif;text-align:left;">
+                                                                                <span
+                                                                                    style="color: rgb(68, 68, 68) !important;"><br>
+                                                                                </span><span
+                                                                                    style="color: black !important; font-size: 12px; font-weight: 600;">https://www.amazon.com/a/c/r?k=c0299ed4c9ad48d185fe8a985d4248db-0f1e</span>
+                                                                            </div>
+                                                                        </div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div><img style="width:1px;height:1px;margin:0;"
+                                        src="https://www.amazon.de/gp/r.html?C=1JGFLLBUUUJH3&amp;M=urn:rtn:msg:20210111070801abc254b196124aa09ff8c4ee65a0p0eu&amp;R=2WHQZ5VL68MLH&amp;T=E&amp;U=https%3A%2F%2Fimages-eu.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&amp;H=KOARIXWOMJJQWQGMK76SG2HOESKA&amp;ref_=pe_6170511_441574891_open"
+                                        data-imagetype="External">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="g4Y3U"></div>
+    </div>
+    <div class="DVtfe"></div>
+</div>

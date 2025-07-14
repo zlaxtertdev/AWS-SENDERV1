@@ -1,0 +1,3 @@
+email-smtp.us-east-1.amazonaws.com|587|AKIAQWCM5P53NCFDN7UV|BGq8GHO0HH8vJmOOojQsd5xxI6PveJUi2RaUobMrqMqC|us-east-1
+email-smtp.us-east-2.amazonaws.com|587|AKIAYP5BL7CEYOXBBLEP|BNnWEg+Zuy9REreP0RKsbJMqqXaxrDHWuRMADlSJ5ixY|us-east-2
+email-smtp.eu-west-1.amazonaws.com|587|AKIAYJJ2GCT4YKA5DOHD|BCM2L5J5lWOMKDucPXJjkH7uRSlXrOvsKqGjSvA2Jfio|eu-west-1
