@@ -1,6 +1,6 @@
 # AWS-SENDERV1
 
-![Python](https://img.shields.io/badge/language-PHP-blue.svg)
+![Python](https://img.shields.io/badge/language-Python-blue.svg)
 ![DARKXCODE](https://img.shields.io/badge/Team-DARKXCODE-black)
 ![AUTHOR](https://img.shields.io/badge/Author-Zlaxtert-orange)
 
