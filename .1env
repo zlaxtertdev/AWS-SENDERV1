@@ -1,0 +1,13 @@
+# AWS SMTP Bulk Email Sender Configuration
+
+# Required configurations
+SMTP_FILE=file/smtp.txt
+EMAIL_LIST=test.txt
+SUBJECT="TESTING"
+MESSAGE_FILE=test.txt
+MAIL_FROM=example@test.com
+
+
+# Optional configurations
+HTML_MESSAGE_FILE=file/test.html
+THREADS=10
