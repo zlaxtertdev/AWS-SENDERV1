@@ -19,3 +19,6 @@ This tool is a tool for Sending emails in bulk with AWS SMTP [CLI Version][UPDAT
     $ git clone https://github.com/zlaxtertdev/AWS-SENDERV1.git
     $ cd AWS-SENDERV1
     $ python aws_smtp_sender.py
+
+## NOTE
+   - Rename file .1env to .env
